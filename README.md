@@ -47,5 +47,5 @@ This project aims to classify different types of garbage using machine learning 
 ### Performance Comparison
 - Compare the performance of different models and discuss the impact of feature selection.
 
-### Insights
+### Insights and Learning 
 - Analyze the results to gain insights into the factors influencing garbage classification accuracy.
