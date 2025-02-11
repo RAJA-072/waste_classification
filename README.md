@@ -2,7 +2,7 @@
 # Garbage Classification Project
 
 ## Project Overview
-This project aims to classify different types of garbage using machine learning techniques. It involves data loading, visualization, feature selection, and the implementation of classification models.
+This project aims to classify different types of garbage using machine learning techniques. It involves data loading, visualization, feature selection, and the implementation of classification models
 
 ## Dataset
 **Dataset:** [https://www.kaggle.com/datasets/mainbt/garbage-dataset-1]  
